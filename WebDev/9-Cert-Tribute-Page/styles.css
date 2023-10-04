@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    margin: 10px
+}
+
+img {
+    display: block;
+    justify-content: center;
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
